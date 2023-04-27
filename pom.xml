@@ -13,7 +13,7 @@
 		<struts.version>2.3.37</struts.version>
 		<commons.version>4.2</commons.version>
 		<struts2.tiles>2.3.37</struts2.tiles>
-		<tiles.core>2.2.2</tiles.core> -->
+		<tiles.core>2.2.2</tiles.core>
 		<!-- Vulnerable Versions -->
 		<!-- <struts.version>2.3.8</struts.version> -->
 		<!-- <commons.version>4.0</commons.version> -->
